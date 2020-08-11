@@ -2,7 +2,7 @@
 백석대학교 학생을 위한 Nodejs + Express를 이용한 웹서버 예제입니다.
 
 # 예제 설치
-- 사용중인 아Windows 10일 경우 
+- 사용중인 운영체제가 Windows 10일 경우 
 1. server > setup_file 폴더로 들어갑니다.
 2. node-v12.18.3-x64.msi 파일을 더블클릭하여 Nodejs를 설치합니다.
 3. VSCodeUserSetup-x64-1.47.3.exe 파일을 더블클릭하여 Visual Studio Code를 설치합니다.
